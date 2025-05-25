@@ -1,4 +1,4 @@
-# 💼 Aplikasi Akuntansi Sederhana
+# 💼 Aplikasi Akuntansi
 
 Aplikasi akuntansi berbasis Python dengan GUI Tkinter untuk mencatat **stok barang** dan **transaksi penjualan**. Proyek ini cocok untuk digunakan sebagai pembelajaran atau sistem pencatatan keuangan sederhana untuk bisnis kecil.
 
@@ -37,4 +37,4 @@ Aplikasi akuntansi berbasis Python dengan GUI Tkinter untuk mencatat **stok bara
 3. Jalankan aplikasi dengan perintah:
 
 ```bash
-python akuntansi_gui.py
+python aplikasi_akuntansi.py
