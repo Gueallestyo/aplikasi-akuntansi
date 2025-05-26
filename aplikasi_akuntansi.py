@@ -3,7 +3,6 @@ from tkinter import messagebox, ttk
 import mysql.connector
 from datetime import datetime
 
-# Koneksi ke database MySQL
 db = mysql.connector.connect(
     host="localhost",
     user="root",  
